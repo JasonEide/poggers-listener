@@ -15,3 +15,4 @@ bot.listen(channels_to_listen_to, duration = 5)
 bot.parse_logs(timestamp = True)
 
 print(counter.foo(channels_to_listen_to, 'poggers'))
+#ok
