@@ -13,4 +13,4 @@ channels_to_listen_to = ['HasanAbi']
 # Scrape live chat data into raw log files. (Duration is seconds)
 bot.listen(channels_to_listen_to, duration=5)
 
-print(counter.foo(channels_to_listen_to, 'k'))
+print(counter.foo(channels_to_listen_to, 'poggers'))
