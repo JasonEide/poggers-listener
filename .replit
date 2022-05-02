@@ -1,2 +1,2 @@
 language = "python3"
-run = "python main_files/repl-main.py"
+run = "python main_files/main.py"

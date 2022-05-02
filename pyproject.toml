@@ -7,6 +7,7 @@ authors = ["JasonEide1 <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 twitch-listener = "^1.2.1"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 
